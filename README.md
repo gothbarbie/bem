@@ -6,7 +6,6 @@ BEM is a naming convention for CSS. It stands for _Block, Element, Modifier_.
 Its purpose is to make CSS more readable and faster to render.
 
 ## Examples
-_(Check source to see class names)_
 
 ```html
     <h3>List</h3>
